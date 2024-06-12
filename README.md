@@ -1,7 +1,7 @@
 # GTAD
 Georgia Tech AutoDrive Localization Library (Research Suite + Benchmarking)
 
-Dev Note: tradeoff between Visual Odometry and vSLAM is a tradeoff between performance, consistency, and simplicity in implimentation.
+Dev Note: tradeoff between Visual Odometry and vSLAM is a tradeoff between performance, consistency, and simplicity in implementation.
 
 ## Visual Odometry
 ### Description
